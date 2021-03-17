@@ -1,2 +1,2 @@
-# pizzaOrderItems
-simple pizza order ingredient list app
+### Pizza Order Ingredient Items
+a simple pizza order - ingredient list app
